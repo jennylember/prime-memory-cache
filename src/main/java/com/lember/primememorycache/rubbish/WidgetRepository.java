@@ -1,7 +1,7 @@
-package com.lember.primememorycache;
+package com.lember.primememorycache.rubbish;
 
 import java.util.List;
-import com.lember.primememorycache.data.*;
+import com.lember.primememorycache.data.dto.*;
 import lombok.NonNull;
 import org.jetbrains.annotations.Nullable;
 

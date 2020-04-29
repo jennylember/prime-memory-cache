@@ -1,4 +1,4 @@
-package com.lember.primememorycache.data;
+package com.lember.primememorycache.data.dto;
 
 import java.util.List;
 

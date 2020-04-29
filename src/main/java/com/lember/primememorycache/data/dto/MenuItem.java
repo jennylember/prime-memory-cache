@@ -1,6 +1,7 @@
-package com.lember.primememorycache.data;
+package com.lember.primememorycache.data.dto;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import com.lember.primememorycache.data.Identifiable;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

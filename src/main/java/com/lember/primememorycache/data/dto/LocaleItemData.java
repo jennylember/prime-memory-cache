@@ -1,4 +1,4 @@
-package com.lember.primememorycache.data;
+package com.lember.primememorycache.data.dto;
 
 public interface LocaleItemData {
     String getId();
